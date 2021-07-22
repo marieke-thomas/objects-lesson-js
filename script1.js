@@ -3,11 +3,11 @@ cutekitty32 = {
   "first_name":"Hera",
   "last_name":"Thomas", 
   "age":10, 
-  "fur color":"tabby", 
+  "fur_color":"tabby", 
   "breed":"American shorthair", 
-  "favorite toy":"twist ties", 
+  "favorite_toy":"twist ties", 
   "weight":9, 
-  "favorite activity":"napping"
+  "favorite_activity":"napping"
 }
 
 // Read
